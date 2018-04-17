@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">AAComponents_Court_Counter</string>
+    <string name="action_settings" translatable="false">Settings</string>
+</resources>
